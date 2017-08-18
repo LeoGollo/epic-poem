@@ -45,9 +45,12 @@ blah blah
 
 Chapter 8
 ---------
-These lines will be replaced with the story of chapter 8.
-It will be written by James
-blah blah
+Once upon a time...
+In a galaxy far far away...
+blah blah blah
+blahhhhhhhhhhh
+another blah
+bleh
 
 Chapter 9
 ---------
