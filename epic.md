@@ -59,13 +59,13 @@ Chapter 10
 ---------
 These lines will be replaced with the story of chapter 10.
 It will be written by Johan
-blah blah
+Australia has great weather. Mac is the worst.
 
 Chapter 11
 ---------
 These lines will be replaced with the story of chapter 11.
 It will be written by Hsiang-Yuan
-blah blah
+blah bla
 
 Chapter 12
 ---------
