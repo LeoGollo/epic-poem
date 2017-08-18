@@ -52,6 +52,12 @@ blahhhhhhhhhhh
 another blah
 bleh
 
+starting the second paragraph. it will be a good paragraph.
+a few more lines start here.
+continue here.
+and here.
+very exciting.
+
 Chapter 9
 ---------
 These lines will be replaced with the story of chapter 9.
