@@ -55,9 +55,18 @@ blah blah
 
 Chapter 8
 ---------
-These lines will be replaced with the story of chapter 8.
-It will be written by James
-blah blah
+Once upon a time...
+In a galaxy far far away...
+blah blah blah
+blahhhhhhhhhhh
+another blah
+bleh
+
+starting the second paragraph. it will be a good paragraph.
+a few more lines start here.
+continue here.
+and here.
+very exciting.
 
 Chapter 9
 ---------
