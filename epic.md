@@ -35,7 +35,13 @@ Chapter 6
 ---------
 These lines will be replaced with the story of chapter 6.
 It will be written by Yudan
-blah blah
+It's been a long day without you my friend.
+And I'll tell you all about it when I see you again.
+We've come a long way from where we began.
+Oh I'll tell you all about it when I see you again.
+When I see you again.
+Damn, who knew all the planes we flew.
+Good things we've been through.
 
 Chapter 7
 ---------
