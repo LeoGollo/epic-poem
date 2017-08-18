@@ -1,4 +1,4 @@
-Epic title goes here
+Herding Cats, A Novella in 37 Parts
 ====================
 
 Chapter 1
@@ -7,11 +7,21 @@ These lines will be replaced with the story of chapter 1.
 It will be written by Saurabh
 blah blah
 
-Chapter 2
+##Chapter 2
 ---------
-These lines will be replaced with the story of chapter 2.
-It will be written by Phil
-blah blah
+####*These lines have been replaced with the story of chapter 2, written by Dr Philip Mosley*, **LORD OF THE UNDERWORLD**
+
+It begins, as always, with a little girl walking through the forest.
+She whistles sweetly to herself as she picks some daisies.
+A butterfly floats past on a gentle breeze.
+
+But wait...
+
+Look closer...
+
+It is not a little girl at all.
+
+**BUT SKELETOR!!! EVIL TIMELORD FROM SPACE**
 
 Chapter 3
 ---------
