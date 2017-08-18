@@ -35,7 +35,20 @@ Chapter 3
 ---------
 These lines will be replaced with the story of chapter 3.
 It will be written by Penelope
-blah blah
+
+Two men go camping in the woods.
+
+In the middle of the night a drop-bear attacks the camp and greviously wounds one man before the other manages to shoot the beast.
+
+As the creature scampers off into the night the man looks down at his blood soaked friend and calls 000, "my friend has been killed by a ravenous drop-bear, what do I do?".
+
+The operator responds, "Calm down, I can help. 
+
+First, let's make sure he's dead." 
+
+There is a silence; then a gun shot is heard. 
+
+The man returns to the phone, "OK, now what?"
 
 Chapter 4
 ---------
