@@ -75,9 +75,14 @@ blah blah
 
 Chapter 13
 ---------
-These lines will be replaced with the story of chapter 13.
-It will be written by Emma
-blah blah
+There once was a girl named Susan
+She met up with her mates and went boozing
+Susan met a sailor and they went cruising
+His conversation was so bad she was left snoozing
+If only he knew how to Github, they might’ve made a bub
+Instead, Susan went back to the pub
+And gave it another good nudge.
+
 
 Chapter 14
 ---------
