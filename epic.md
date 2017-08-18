@@ -5,7 +5,15 @@ Chapter 1
 ---------
 These lines will be replaced with the story of chapter 1.
 It will be written by Saurabh
-blah blah
+Redundancy considered harmful.
+Physicists agree that “smart” epistemologies
+are an interesting new topic in the field
+of robotics, and end-users concur. Certainly,
+we emphasize that our methodology
+runs in (n) time. In fact, few analysts
+would disagree with the development
+of robots. To what extent can XML be developed
+to realize this ambition?
 
 ## Chapter 2
 ---------
@@ -27,7 +35,20 @@ Chapter 3
 ---------
 These lines will be replaced with the story of chapter 3.
 It will be written by Penelope
-blah blah
+
+Two men go camping in the woods.
+
+In the middle of the night a drop-bear attacks the camp and greviously wounds one man before the other manages to shoot the beast.
+
+As the creature scampers off into the night the man looks down at his blood soaked friend and calls 000, "my friend has been killed by a ravenous drop-bear, what do I do?".
+
+The operator responds, "Calm down, I can help. 
+
+First, let's make sure he's dead." 
+
+There is a silence; then a gun shot is heard. 
+
+The man returns to the phone, "OK, now what?"
 
 Chapter 4
 ---------
@@ -45,7 +66,13 @@ Chapter 6
 ---------
 These lines will be replaced with the story of chapter 6.
 It will be written by Yudan
-blah blah
+It's been a long day without you my friend.
+And I'll tell you all about it when I see you again.
+We've come a long way from where we began.
+Oh I'll tell you all about it when I see you again.
+When I see you again.
+Damn, who knew all the planes we flew.
+Good things we've been through.
 
 Chapter 7
 ---------
@@ -81,13 +108,17 @@ Chapter 10
 ---------
 These lines will be replaced with the story of chapter 10.
 It will be written by Johan
-blah blah
+Australia has great weather. Mac is the worst.
+This is a new line using the branch my_new_line! Enjoy reading it.
+and this is yet another new line!!!
+using a second commit in the branch!
+
 
 Chapter 11
 ---------
 These lines will be replaced with the story of chapter 11.
 It will be written by Hsiang-Yuan
-blah blah
+blah bla
 
 Chapter 12
 ---------
@@ -97,9 +128,14 @@ blah blah
 
 Chapter 13
 ---------
-These lines will be replaced with the story of chapter 13.
-It will be written by Emma
-blah blah
+There once was a girl named Susan
+She met up with her mates and went boozing
+Susan met a sailor and they went cruising
+His conversation was so bad she was left snoozing
+If only he knew how to Github, they might�ve made a bub
+Instead, Susan went back to the pub
+And gave it another good nudge.
+
 
 Chapter 14
 ---------
