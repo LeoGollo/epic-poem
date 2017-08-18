@@ -60,6 +60,8 @@ Chapter 10
 These lines will be replaced with the story of chapter 10.
 It will be written by Johan
 Australia has great weather. Mac is the worst.
+This is a new line using the branch my_new_line! Enjoy reading it.
+
 
 Chapter 11
 ---------
