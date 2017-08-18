@@ -5,7 +5,15 @@ Chapter 1
 ---------
 These lines will be replaced with the story of chapter 1.
 It will be written by Saurabh
-blah blah
+Redundancy considered harmful.
+Physicists agree that “smart” epistemologies
+are an interesting new topic in the field
+of robotics, and end-users concur. Certainly,
+we emphasize that our methodology
+runs in (n) time. In fact, few analysts
+would disagree with the development
+of robots. To what extent can XML be developed
+to realize this ambition?
 
 ## Chapter 2
 ---------
