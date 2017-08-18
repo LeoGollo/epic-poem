@@ -59,7 +59,7 @@ blah blah
 Chapter 8
 ---------
 Once upon a time...
-In a galaxy far far away...
+In a galaxy not that far far away...
 blah blah blah
 blahhhhhhhhhhh
 another blah
@@ -110,5 +110,5 @@ blah blah
 Chapter 15
 ---------
 These lines will be replaced with the story of chapter 15.
-It will be written by X
+It will be written by X. Who is X?
 blah blah
