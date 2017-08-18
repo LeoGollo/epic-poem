@@ -7,9 +7,9 @@ These lines will be replaced with the story of chapter 1.
 It will be written by Saurabh
 blah blah
 
-##Chapter 2
+## Chapter 2
 ---------
-####*These lines have been replaced with the story of chapter 2, written by Dr Philip Mosley*, **LORD OF THE UNDERWORLD**
+#### *These lines have been replaced with the story of chapter 2, written by Dr Philip Mosley*, **LORD OF THE UNDERWORLD**
 
 It begins, as always, with a little girl walking through the forest.
 She whistles sweetly to herself as she picks some daisies.
