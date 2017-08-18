@@ -51,6 +51,9 @@ Chapter 7
 ---------
 These lines will be replaced with the story of chapter 7.
 It will be written by Leo
+
+Once upon the time NHMRC success rate was 100%.
+
 blah blah
 
 Chapter 8
